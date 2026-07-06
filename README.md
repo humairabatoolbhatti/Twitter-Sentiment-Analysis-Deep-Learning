@@ -1,12 +1,9 @@
-
-# Twitter Sentiment Analysis  Deep Learning Comparison
+**Twitter Sentiment Analysis — Deep Learning Comparison**
 
 Compared 6 deep learning architectures for 4-class sentiment classification on Twitter data.
 Best model: Bi-LSTM at 86.2% accuracy and 0.97 AUC.
 
-
-**
-**What this project does
+**What this project does**
 
 Given a tweet, the model predicts one of 4 sentiment classes: Positive, Negative, Neutral, or Irrelevant.
 
